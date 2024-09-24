@@ -10,5 +10,5 @@ class Config:
     TESTING = False
 
 class TestConfig:
-    MONGO_URI = "mongodb://mongodb:27017/songs_db"  # Adjusted connection string for Docker
+    MONGO_URI = "mongodb://mongodb:27017/songs_db"  
 
